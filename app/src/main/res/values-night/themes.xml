@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="NoBackgroundDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="Base.Theme.BlueApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.BlueApp" parent="Base.Theme.BlueApp" />
+
+    <style name="open_sans_medium_black_12" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="fontFamily">@font/opensans_semibold</item>
+        <item name="lineSpacing">14dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="open_sans_medium_grey_12" parent="android:Widget.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="fontFamily">@font/opensans_semibold</item>
+        <item name="lineSpacing">14dp</item>
+    </style>
+
+    <style name="open_sans_semi_bold_black_14" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="fontFamily">@font/opensans_semibold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="lineSpacing">14dp</item>
+    </style>
+
+    <style name="open_sans_bold_black_14" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="fontFamily">@font/opensans_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="lineSpacing">14dp</item>
+    </style>
+
+</resources>

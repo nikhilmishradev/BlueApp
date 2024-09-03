@@ -1,0 +1,1 @@
+package com.androidtechguru.blueapp.data.modeldata class ImageEntity(val url: String)

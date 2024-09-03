@@ -1,0 +1,1 @@
+package com.androidtechguru.blueapp.domain.modeldata class Image(val url: String)

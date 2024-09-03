@@ -1,0 +1,1 @@
+package com.androidtechguru.blueapp.domain.modeldata class Item(    val title: String,    val subtitle: String,    val imageUrl: String)
