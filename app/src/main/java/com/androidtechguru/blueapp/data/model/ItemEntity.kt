@@ -1,0 +1,1 @@
+package com.androidtechguru.blueapp.data.modeldata class ItemEntity(    val title: String,    val subtitle: String,    val imageUrl: String)

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blue App</string>
+    <string name="search_hint">Search</string>
+    <string name="close">Close</string>
+    <string name="top_3_characters">Top 3 Characters</string>
+    <string name="items_statistics_report">Items Statistics Report</string>
+    <string name="total_items">Total Items: %1$s</string>
+    <string name="statistics">Statistics</string>
+    <string name="splash">splash</string>
+    <string name="main">main</string>
+</resources>
